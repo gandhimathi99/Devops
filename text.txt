@@ -1,0 +1,10 @@
+welcome to GIT
+Learning
+GIT commands
+git add()
+git commit()
+git push()
+git fetch()
+git config --global user.name "Mathi"
+git config --global user.email.id "pgmathimca@gmail.com"
+
